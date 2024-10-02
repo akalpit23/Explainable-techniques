@@ -12,3 +12,8 @@ torchvision
 adversarial-robustness-toolbox
 opencv-python
 tqdm
+tensorflow
+tensorflow-hub
+transformers
+pillow
+requests
