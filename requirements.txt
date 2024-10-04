@@ -17,5 +17,3 @@ tensorflow-hub
 transformers
 pillow
 requests
-alibi
-pytorch-grad-cam
