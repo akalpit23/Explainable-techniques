@@ -19,5 +19,4 @@ pillow
 requests
 alibi 
 pdpbox
-alepython
 pycebox
